@@ -25,14 +25,3 @@ export default function SectionMain() {
     </section>
   )
 }
-
-{/* <P>WE DON'T CARE WHAT YOU AND YOUR FEET DESERVE, WE'RE JUST HERE FOR THE MONEY, SO GET YO ASS OVER HERE WITH YOUR CREDID/DEBIT CARDS, WE'RE DYING TO MILK YOU OUT </P>
-<div className='s-buttons'>
-  <button className='bg-red-600 text-white'>Shop Now</button>
-  <button className='text-black'>Category</button>
-</div>
-<h4>Also Available On</h4>
-<div className='logos'>
-  <img src={Flipkart} alt="flipkart" />
-  <img src={Amazon} alt="amazon" />
-</div> */}
