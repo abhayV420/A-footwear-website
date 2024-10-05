@@ -1,0 +1,71 @@
+#root {
+  max-width: 1680px;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+nav{
+  margin-top: 5px;
+}
+
+li:hover{
+  text-decoration: underline;
+  color: blue;
+  transform: scale(1.1);
+}
+#loginButton{
+  border: 1px solid black;
+}
+
+#loginButton:hover{
+  background-color: white;
+  color: black;
+  
+}
+#quote{
+  width: ;
+  text-size: 10;
+}
+
+section{
+  width: 70%;
+  height: 70%;
+  margin-left: 14rem;
+  margin-top: 7rem;
+}
+
+#bakchodi{
+  width: 50%;
+}
+
+#shoe{
+  width: 35%;
+  height: 70%;
+}
+
+article{
+  width: 75%;
+  font-weight: 600;
+  
+}
+
+.shop-now-b, .category-b{
+ transform: scale(1.1);
+ width: 100px;
+ border: 1px solid black;
+ font-weight: 500;
+}
+.shop-now-b:hover{
+  color: black;
+  background-color: white;
+  
+}
+.shop-now-b, .category-b:hover{
+  transform: scale(1.15);
+ }
+
+ #available{
+  width: 25%;
+ }
