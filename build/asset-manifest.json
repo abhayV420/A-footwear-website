@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1803b2b.css",
+    "main.js": "/static/js/main.1a98e466.js",
+    "static/media/shoe.jpg": "/static/media/shoe.1bc670c0deed08c33aa7.jpg",
+    "static/media/nike_logo.png": "/static/media/nike_logo.81347a9069d3c8b571e5.png",
+    "static/media/flipkart-icon.svg": "/static/media/flipkart-icon.9dfd75c10f73a7c082878f88ae822448.svg",
+    "static/media/amazon_icon.png": "/static/media/amazon_icon.1ecbefccdb7abe1b7ad7.png",
+    "index.html": "/index.html",
+    "main.d1803b2b.css.map": "/static/css/main.d1803b2b.css.map",
+    "main.1a98e466.js.map": "/static/js/main.1a98e466.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1803b2b.css",
+    "static/js/main.1a98e466.js"
+  ]
+}
